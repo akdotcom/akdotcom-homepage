@@ -1,0 +1,15 @@
+Hi, I'm Akshay. Nice to meet you.
+
+Most recently I was the platform lead @ Foursquare which was a fun mix
+of product, engineering, business development, sales, and community. Prior to that I
+was an engineer at Google for almost 6 years. And before that I was at MIT where I
+studied Math & Computer Science. As of 2014/03/18, I am funemployed.
+
+I built the first version of a mildly successful chat system called Partychat in 2005,
+which has since been improved and maintained by a number of my friends. I once helped
+a Japanese parody music video called "Yatta" go viral in the early aughts
+(back before YouTube) by hosting it in my MIT web locker.
+
+I'm married, live in Brooklyn, and have two cats.
+
+My e-mail address is my first initial plus last name at gmail.com
