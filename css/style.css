@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+}
+ 
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#bg {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: url("/img/iberry.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: -3;
+  
+  display: table;
+  
+}
+
+#bg-cover {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: black;
+  opacity: 0.60;
+  z-index: -2;
+}
+
+#content {
+  color: white;
+  z-index: 0;
+  
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+}
+
+#content h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 520px;
+  padding: 10px;
+  font-size: 300%;
+}
+#content p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 520px;
+  padding: 10px;
+  font-size: 150%;
+}
+
+#links {
+  word-spacing: .5em;
+}
+#links a {
+  color: white;
+}
