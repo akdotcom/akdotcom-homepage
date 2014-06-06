@@ -95,3 +95,9 @@ body {
 #links a {
   color: white;
 }
+
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
