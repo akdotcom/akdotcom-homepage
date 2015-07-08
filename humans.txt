@@ -1,10 +1,10 @@
 Hi, I'm Akshay. Nice to meet you.
 
-I'm the Founder/CEO of Stitch, the simple, free way to stay in touch with the people
-you care about.
+I'm an engineer turned product guy who loves building simple products
+with a profound impact on people's lives.
 
 I was recently the platform lead @ Foursquare which was a fun mix
-of product, engineering, business development, sales, and community. Prior to that I
+of product, engineering, and business development. Prior to that I
 was an engineer at Google for almost 6 years. And before that I was at MIT where I
 studied Math & Computer Science.
 
