@@ -1,9 +1,12 @@
 Hi, I'm Akshay. Nice to meet you.
 
-Most recently I was the platform lead @ Foursquare which was a fun mix
-of product, engineering, business development, sales, and community. Prior to that I
+I'm an engineer turned product guy who loves building simple products
+with a profound impact on people's lives.
+
+I was recently the platform lead @ Foursquare which was a fun mix
+of product, engineering, and business development. Prior to that I
 was an engineer at Google for almost 6 years. And before that I was at MIT where I
-studied Math & Computer Science. As of 2014/03/18, I am funemployed.
+studied Math & Computer Science.
 
 I built the first version of a mildly successful chat system called Partychat in 2005,
 which has since been improved and maintained by a number of my friends. I once helped
