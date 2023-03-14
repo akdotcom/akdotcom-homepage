@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/akdotcom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://akdotcom.com
+  * I am akdotcom (https://keybase.io/akdotcom) on keybase.
+  * I have a public key with fingerprint 5D24 532E 6A1A F699 70E9  6ADD 50AA 6515 CC46 9446
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010642ef9c3c2057067e06fd11a65c391fde38cf9b0cc297850908986fbeb5265e0a",
+            "fingerprint": "5d24532e6a1af69970e96add50aa6515cc469446",
+            "host": "keybase.io",
+            "key_id": "50aa6515cc469446",
+            "kid": "01010642ef9c3c2057067e06fd11a65c391fde38cf9b0cc297850908986fbeb5265e0a",
+            "uid": "a9cb624198c43859392bc4718d30d519",
+            "username": "akdotcom"
+        },
+        "service": {
+            "hostname": "akdotcom.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1463860078,
+    "expire_in": 157680000,
+    "prev": "62267f72b358b04e3762c42da644963c728511e199b8c999b2f93f1d071195ad",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJbSFRBGMd3LTdcKoO0pAusgxXUamfOZc6Z7b4SQjdKoyCs7Zw5c9zT
+6jnb7lErkShKSqMoLCqL6mHLaLtg9ZDbQ96eCqEIStpEKqEgIqmHHoSaI/USPTYD
+M8w3v/9/vu9j+qdN8vi9bUP9vrOppe+8T3vO1Xu2r85YTUCz9f0g1ARidGKjtTpN
+OpGYqYMQ4CCbSOSpgYlAeE6SOSRTDhk6hCqSiIChoVNBIQbWOEJ4LCsShzkFK8jQ
+qCbxSKKcCoLAMK0amognTMthtpLOi5LAU6RC1UAYyxzFSNV1iVOZK5QIEREWRcSE
+UTvpKlhympqkZabNYuwQmUjvH/x/zrt+wk7FREO8CLFCREGRsIB5jYgyVHSB0yWI
+XTBJE5ZaR106ptsOsetAcxCwaINJqNtYt5K/iDKXCoJ4wnZsYteym6jjxEOu0Nkf
+d8lGqkV+e0Q009JZG5mggSaSpm2BEGQkcUzXFIpIUBDHyUoQ0H1xM0EjpktIMlI4
+NtxnaAOzRDyPZEPmNUFSNE6kgox4IvK6ikQRI4HIvCJBSCHGmkIwW3kDCwbUORlC
+LKk6cKvaa9kgJLA01RpmmTRrLNWpT1DQ3PukerLH6/f4cnPc7+Xx58348+mau6b8
+3HN+fMOYkl9592pB+Hqp3xMYX7ko+7z0MPQ2dOb3SsB39EHFhbmeoZGb7WawO7sh
+ET6Rbjw7fW3+6Fjn7WP583rXvx3ed7rl/fGvL8t3fhzzdc06jN4v2PSj2Pe58siu
+EjXv8q2+VqVxTfvDb9njWzenT9YEmr63nNo9c36qqKgiG3g2OBjzDI1284X311Sd
+6fhUuq099MgaWPih42BOyevlzTvqPlQfWJLzIlB8P30GTY1ujL9GO2jVSOhG0fbO
+zi+5y9bNKbjSeqjvYM/iO8VfZj9Ord9SHV5ekQaplx3WxVfZdf487RKdu2DTQOGq
+nmuZ8AG7LRPtG/6YGV0h37v0pvwXhCk3dA==
+=Akt7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akdotcom
+
+==================================================================
