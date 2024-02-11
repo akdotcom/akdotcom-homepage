@@ -1,6 +1,7 @@
 # Poco's Maze Adventure
-![Gif1](https://media-cdn.play.date/media/games/pulp.akdotcom.pocosmazeadventure/poco_video_1_1_1.gif)
-### A kitty game for all ages
+<img src="images/poco_video_w800.gif" alt="Poco gameplay" width=400>
+
+<a href="https://play.date/games/pocos-maze/" alt="Poco's Catalog page"><img src="images/catalog-dev-link-badge-buy.png" alt="Buy it in Playdate Catalog" width=200></a>
 
 ## Motivation
 In August 2023, my wife gave me a [Playdate](http://play.date), the new gaming system made by a [Portland-based indie game publisher](https://panic.com/) in collaboration with a [hip Swedish consumer electronics company](http://teenage.engineering).
