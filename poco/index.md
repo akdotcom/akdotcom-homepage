@@ -1,7 +1,7 @@
 # Poco's Maze Adventure
-<img src="images/poco_video_1.gif" alt="Poco gameplay" width=420>
+<img src="images/poco_video_w800.gif" alt="Poco gameplay" width=400>
 
-<a href="https://play.date/games/pocos-maze/" alt="Poco's Catalog page"><img src="images/catalog-dev-link-badge-buy.png" alt="Buy it in Playdate Catalog" width=210></a>
+<a href="https://play.date/games/pocos-maze/" alt="Poco's Catalog page"><img src="images/catalog-dev-link-badge-buy.png" alt="Buy it in Playdate Catalog" width=200></a>
 
 ## Motivation
 In August 2023, my wife gave me a [Playdate](http://play.date), the new gaming system made by a [Portland-based indie game publisher](https://panic.com/) in collaboration with a [hip Swedish consumer electronics company](http://teenage.engineering).
