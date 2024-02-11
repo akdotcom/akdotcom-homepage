@@ -17,6 +17,8 @@ That may sound ridiculous, but Panic has an incredibly simple-but-powerful game 
 
 When my son (now six) was a toddler, he would make up stories about a little gray cat named Poco, so there was never a question as to who the game’s avatar would be. The actual character design is heavily inspired by [Ron Lent](https://www.ronlent.com/)’s awesome game [Eyeland](https://play.date/games/eyeland/) which was also made in Pulp.
 
+<img src="images/eyeland.png" height=259> <img src="images/poco_pulp.png" height=259>
+
 Pretty early on, I had the idea that “the lights would go out” on Poco, and it was pretty rewarding to see how much more engaging and challenging that game mechanic ended up being for kids and adults alike. It made the game a little TOO hard for my daughter (age four), so I added a “night vision” feature to stop her from giving up in disgust whenever the lights went out. The game is only 300 lines of code and >200 of those lines are for the lights out and night vision features – almost everything else about the game is drag and drop.
 
 ## Publishing
