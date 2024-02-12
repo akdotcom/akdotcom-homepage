@@ -32,6 +32,8 @@ Panic’s main feedback, which I completely agreed with, was that the game felt 
 
 I enlisted the help of my friend [Bill Wadman](https://billwadman.com). An accomplished photographer, Bill studied music in college and was game for an unpaid collab. “We don't get paid because it's for charity, but you can add video game music composer to your resume!” was the pitch =). I figured he’d compose an atmospheric puzzle game soundscape, but he instead saw Poco as an adventure game, which it absolutely is... very few of the mazes have wrong turns. As such, he composed a fun adventure theme for the game which after some initial hesitation I've come to love. Much <3 to Bill for giving Poco her theme song and putting up with my perfectionist tendencies throughout the collaboration.
 
+![Bill's Theme](images/pulp_music.png)
+
 Unfortunately, music composed in Pulp sounds harsh at higher volumes on the Playdate speaker and we didn't discover [Ron's rant/tips](https://devforum.play.date/t/share-your-tricks-for-the-pulp-music-editor/2162/8) until well after Bill had finished the theme, so that's why the music sounds a little quiet compared to other (non-Pulp) games -- we bumped the volume down to 60% to compensate.
 
 ## Charity
