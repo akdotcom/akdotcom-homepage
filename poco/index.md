@@ -39,6 +39,8 @@ Unfortunately, music composed in Pulp sounds harsh at higher volumes on the Play
 ## Charity
 A few weeks before Poco was due, a friend was raving about [Flatbush Cats](https://www.flatbushcats.org/)'s affordable clinic and I decided that would be a perfect place to send the donations. Flatbush Cats provides services to helps rescue outdoor cats and make caring for them affordable so they can stay off the street.
 
+<img src="images/poco_end.png" alt="Final screen" width=400>
+
 I didn't know how to the end the game, so I asked my son where Poco was headed and he confidently answered that she was "going outside to play." There's an irony of taking the profits from a game about a cat going outside and spending it on the rescue of outdoor cats, but I'm pretty sure Poco wouldn't want it any other way.
 
 <a href="https://play.date/games/pocos-maze/" alt="Poco's Catalog page"><img src="images/catalog-dev-link-badge-buy.png" alt="Buy it in Playdate Catalog" width=200></a> 
