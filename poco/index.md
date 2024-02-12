@@ -32,10 +32,14 @@ Panic’s main feedback, which I completely agreed with, was that the game felt 
 
 I enlisted the help of my friend [Bill Wadman](https://billwadman.com). An accomplished photographer, Bill studied music in college and was game for an unpaid collab. “We don't get paid because it's for charity, but you can add video game music composer to your resume!” was the pitch =). I figured he’d compose an atmospheric puzzle game soundscape, but he instead saw Poco as an adventure game, which it absolutely is... very few of the mazes have wrong turns. As such, he composed a fun adventure theme for the game which after some initial hesitation I've come to love. Much <3 to Bill for giving Poco her theme song and putting up with my perfectionist tendencies throughout the collaboration.
 
+![Bill's Theme](images/pulp_music.png)
+
 Unfortunately, music composed in Pulp sounds harsh at higher volumes on the Playdate speaker and we didn't discover [Ron's rant/tips](https://devforum.play.date/t/share-your-tricks-for-the-pulp-music-editor/2162/8) until well after Bill had finished the theme, so that's why the music sounds a little quiet compared to other (non-Pulp) games -- we bumped the volume down to 60% to compensate.
 
 ## Charity
 A few weeks before Poco was due, a friend was raving about [Flatbush Cats](https://www.flatbushcats.org/)'s affordable clinic and I decided that would be a perfect place to send the donations. Flatbush Cats provides services to helps rescue outdoor cats and make caring for them affordable so they can stay off the street.
+
+<img src="images/poco_end.png" alt="Final screen" width=400>
 
 I didn't know how to the end the game, so I asked my son where Poco was headed and he confidently answered that she was "going outside to play." There's an irony of taking the profits from a game about a cat going outside and spending it on the rescue of outdoor cats, but I'm pretty sure Poco wouldn't want it any other way.
 
