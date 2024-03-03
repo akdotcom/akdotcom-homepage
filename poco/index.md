@@ -28,7 +28,7 @@ Panic makes it easy to “sideload” games from anywhere and there’s a thrivi
 There's also a curated [game store ("Catalog")](https://play.date/games/) for the Playdate where Panic releases 5-10 games a month. I YOLO submitted Poco for consideration in November and it was a complete surprise and delight when they accepted the game. They scheduled Poco for the February Catalog Drop, so I had roughly two months to finish up the game.
 
 ## Music
-Panic’s main feedback, which I completely agreed with, was that the game felt sonically empty. I had sound effects for various events, but the game was otherwise silent. I thought about making a sound every time Poco moved (that’s what Ron does in [Eyeland](https://play.date/games/eyeland/)) but cats are quiet and it made no sense for her to be clomping around. Background music would help and the Pulp editor has a song composer, but everything I tried to make in the composer sounded terrible. I needed help.
+Panic’s main feedback, which I completely agreed with, was that the game felt sonically empty. I had sound effects for various events, but the game was otherwise silent. I thought about making a sound every time Poco moved, but cats are quiet and it made no sense for her to be clomping around. Background music would help and the Pulp editor has a song composer, but everything I tried to make in the composer sounded terrible. I needed help.
 
 So I enlisted the help of my friend [Bill Wadman](https://billwadman.com). An accomplished photographer, Bill studied music in college and was game for an unpaid collab. “We don't get paid because it's for charity, but you can add video game music composer to your resume!” was the pitch 😃. I'd always thought of Poco as a puzzle game needing an atmospheric soundscape, but he instead saw Poco as an adventure game and composed a fun adventure theme. It caught me by surprise, but he was completely right: very few of the mazes have wrong turns and it's much more about enjoying the journey than it is using your brain. Once I wrapped my head around that, I came to love the music he composed and can't imagine the game without it.
 
@@ -52,4 +52,5 @@ Many thanks to
 - [Panic](https://panic.com) for sharing Poco with the world
 - [Principles GI Coffee House](https://www.instagram.com/principlesbk) for when I needed to play with pixels outside of my house and talk about the game with adults
 - [Public Records](https://publicrecords.nyc/) for the one afternoon when I forced myself to "mostly finish" the game and submit it for Catalog consideration
+- [CloudConvert](https://cloudconvert.com/mov-to-gif), [Piskel](https://www.piskelapp.com/), [Pixaki](https://pixaki.com/), and [Resprite](https://resprite.fengeon.com/) for help generating Poco's promotional assets
 - My family and extended family of friends for the support and "user testing"
