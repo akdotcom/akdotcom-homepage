@@ -1,2 +1,4 @@
 name: true
 title: false
+minima:
+  skin: auto
